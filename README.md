@@ -1,4 +1,4 @@
-# TOOL : SMS BOMBER
+# SMS BOMBER
 
 pkg install python
 
@@ -12,8 +12,8 @@ pip2 install bs4
 
 pip2 install mechanize
 
-git clone https://github.com/BYPASS-KING/BYPASS
+git clone https://github.com/JISAN-404/Sms-Bomber
 
-cd BYPASS
+cd Sms-Bomber
 
-python V3.py
+python SMS-BOMBER.py
